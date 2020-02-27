@@ -1,3 +1,4 @@
 test1
-created branch 'side-branch'
-mod1 in 'side-branch'
+created branch 'side-branch' 2
+mod1 in 'side-branch' 3
+mod2 in 'side-branch' 4
