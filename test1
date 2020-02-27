@@ -4,3 +4,4 @@ mod1 in 'side-branch' 3
 mod2 in 'side-branch' 4
 new line in 'master' branch 2
 another lin in 'master' 3
+merged 'master' into 'side-branch' then wrote this line in 'side-branch'
